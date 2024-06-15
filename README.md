@@ -1,6 +1,6 @@
 
 <p style="width: 100%; padding:10; margin:10;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+my+Apps+repo!;Have+a+look+around!&font=Fira%20Code&color=%1991349&center=true&width=400&height=60" width="60%" height='30%' style="display:inline;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+App+Gallery!;Have+a+look+around!&font=Fira%20Code&color=%1991349&center=true&width=400&height=60" width="60%" height='30%' style="display:inline;">
 </p>
  This repository is dedicated to hosting the APK files of various projects. Here, you can find and download the latest APKs of my applications directly.
 
