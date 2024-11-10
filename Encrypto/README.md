@@ -1,79 +1,46 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🔒📁 Encrypto: Your Trusted File Security App 📁🔒
 
-# Getting Started
+Keep your files safe and secure with **Encrypto**! This user-friendly app is designed to protect your sensitive data by offering quick and reliable file encryption and decryption, ensuring that your files stay private and secure—all while operating completely offline.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## 🌟 Key Features of Encrypto 🌟
 
-## Step 1: Start the Metro Server
+### 🔐 File Encryption & Decryption
+- Easily encrypt and decrypt files of any type, from documents to images and more.
+- State-of-the-art encryption using **AES-CBC** with advanced key management for unparalleled security.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### 📄 Supports All File Types
+- Works seamlessly with any file type by reading them as base64, allowing flexible and comprehensive protection.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+### 🚫 Completely Offline
+- Your data stays on your device—no internet connection is required, giving you total control and privacy.
 
-```bash
-# using npm
-npm start
+### 💪 Secure Technology
+- Utilizes the power of **node-forge** for robust and effective encryption.
+- Advanced algorithms, including **PKCS5 key derivation** and **AES-CBC ciphering**, ensure top-tier protection.
 
-# OR using Yarn
-yarn start
-```
+## 👥 Target Audience
+Perfect for anyone looking to secure their files: individuals, businesses, or tech-savvy users wanting robust file safety.
 
-## Step 2: Start your Application
+## 🆓 Monetization & Accessibility
+- **100% free to use**—no hidden charges, no premium features.
+- Simple and minimalistic design for an easy-to-use experience.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+## ⚙️ Customization & Usability
+While currently minimal in customization, **Encrypto** is designed to be highly user-friendly. Select and encrypt/decrypt multiple files with just a few taps.
 
-### For Android
+## 🚀 Future Updates
+Exciting new features are on the horizon:
+- **Encryption history logs** to track past operations.
+- **File name masking** for added security and anonymity.
 
-```bash
-# using npm
-npm run android
+## ✨ Unique Selling Points
+- Lightweight, fully offline, and completely secure.
+- Minimalistic design with no unnecessary clutter.
 
-# OR using Yarn
-yarn android
-```
+## 💬 Feedback & Support
+Your voice matters! Share your thoughts and feedback through the Play Store comments. Your input helps us make **Encrypto** even better.
 
-### For iOS
+## 🔒 Why Choose Encrypto?
+**Encrypto** is built with a strong focus on simplicity, privacy, and security. Unlike other apps that rely on cloud services, Encrypto ensures your data stays local, providing peace of mind with every use.
 
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+**Take control of your data security with Encrypto—download it today and experience true file safety!**
