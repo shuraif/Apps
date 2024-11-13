@@ -1,5 +1,14 @@
 **📱💰 NayaPaisa: Your Ultimate Finance Manager on the Go! 💰📱**
 
+<br>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
+   <img src="./screenshots/Home.png" alt="Home" width="180" height="320">
+   <img src="./screenshots/Reports.png" alt="Reports" width="180" height="320">
+   <img src="./screenshots/Budgets.png" alt="Budgets" width="180" height="320">
+   <img src="./screenshots/Category.png" alt="Category" width="180" height="320">
+   <img src="./screenshots/Settings.png" alt="Settings.png" width="180" height="320">
+</div>
+<br> 
 Stay in control of your finances with Nayapaisa! This simple, intuitive finance app helps you track expenses, manage multiple accounts, and stick to your budget—all in one place. Perfect for anyone looking to streamline their finances effortlessly.
 
 ### 🌟 Key Features of NayaPaisa🌟
