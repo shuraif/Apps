@@ -1,5 +1,17 @@
 # 🔒📁 Encrypto: Your Trusted File Security App 📁🔒
 
+<br>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
+   <img src="./screenshots/Home.png" alt="Select a file" width="140" height="280">
+   <img src="./screenshots/EncryptPassword.png" alt="Enter password to encrypt" width="140" height="280">
+   <img src="./screenshots/EncryptInprogress.png" alt="Encrypt Inprogress" width="140" height="280">
+   <img src="./screenshots/EncryptComplete.png" alt="Encryption Complete" width="140" height="280">
+   <img src="./screenshots/DecryptPassword.png" alt="Enter password to decrypt" width="140" height="280">
+  <img src="./screenshots/DecryptInprogress.png" alt="Decrypt Inprogress" width="140" height="280">
+  <img src="./screenshots/DecryptComplete.png" alt="Decryption Complete" width="140" height="280">
+</div>
+<br> 
+
 Keep your files safe and secure with **Encrypto**! This user-friendly app is designed to protect your sensitive data by offering quick and reliable file encryption and decryption, ensuring that your files stay private and secure—all while operating completely offline.
 
 ## 🌟 Key Features of Encrypto 🌟
